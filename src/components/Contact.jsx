@@ -24,22 +24,22 @@ export default function Sidebar() {
           GitHub
         </a>
         <br/>
-        <a
+        {/* <a
           href="https://linkedin.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-indigo-400 dark:text-indigo-400 hover:underline">
           LinkedIn
-        </a>
+        </a> */}
       </div>
 
       {/* Tombol Download CV */}
-      <a
+      {/* <a
         href="/cv.pdf"
         download
         className="mt-6 inline-block bg-indigo-600 text-white px-4 py-2 rounded-lg shadow hover:bg-indigo-500">
         Download CV
-      </a>
+      </a> */}
     </div>
   );
 }
