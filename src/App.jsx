@@ -47,7 +47,7 @@ export default function App() {
             {activePage === "about" && <About />}
             {activePage === "resume" && <Resume />}
             {activePage === "projects" && <Projects />}
-            {activePage === "contact" && <Contact />}
+            {activePage === "contact" && <Sidebar />}
           </div>
         </motion.div>
       </div>
