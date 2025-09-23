@@ -16,6 +16,7 @@ export default function Resume() {
             <li>BPS – Enumerator (2022)</li>
             <li>Diskominfo – Intern Web Developer (2023)</li>
             <li>Indikator – Surveyor (2023)</li>
+            <li>Pt Phicos – Training & Intern (2025)</li>
           </ul>
         </div>
       </div>
