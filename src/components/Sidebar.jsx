@@ -17,7 +17,7 @@ export default function Sidebar() {
           wisnumahendra06@gmail.com
         </p>
         <a
-          href="https://github.com/"
+          href="https://github.com/Novaile"
           target="_blank"
           rel="noopener noreferrer"
           className="text-indigo-400 dark:text-indigo-400 hover:underline">
@@ -25,21 +25,21 @@ export default function Sidebar() {
         </a>
         <br/>
         <a
-          href="https://linkedin.com/"
+          href="https://www.instagram.com/_wisnu_mahendra/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-indigo-400 dark:text-indigo-400 hover:underline">
-          LinkedIn
+          Instagram
         </a>
       </div>
 
       {/* Tombol Download CV */}
-      <a
+      {/* <a
         href="/cv.pdf"
         download
         className="mt-6 inline-block bg-indigo-600 text-white px-4 py-2 rounded-lg shadow hover:bg-indigo-500">
         Download CV
-      </a>
+      </a> */}
     </div>
   );
 }
