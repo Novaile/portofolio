@@ -3,10 +3,10 @@ export default function Projects() {
   const projectList = [
     {
       title: "Project 1",
-      desc: "Deskripsi singkat project.",
+      desc: "Web Inventaris digunakan untuk mengelola data barang",
       img: "https://via.placeholder.com/300x200",
       demo: "#",
-      github: "#",
+      github: "https://github.com/Novaile/inventaris",
     },
     {
       title: "Project 2",

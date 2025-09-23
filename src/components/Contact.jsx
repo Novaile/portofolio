@@ -17,7 +17,7 @@ export default function Sidebar() {
           wisnumahendra06@gmail.com
         </p>
         <a
-          href="https://github.com/"
+          href="https://github.com/Novaile"
           target="_blank"
           rel="noopener noreferrer"
           className="text-indigo-400 dark:text-indigo-400 hover:underline">
