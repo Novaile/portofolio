@@ -4,7 +4,7 @@ export default function Projects() {
     {
       title: "Project 1",
       desc: "Web Inventaris digunakan untuk mengelola data barang",
-      img: "https://via.placeholder.com/300x200",
+      img: "/image/image.png",
       demo: "#",
       github: "https://github.com/Novaile/inventaris",
     },
